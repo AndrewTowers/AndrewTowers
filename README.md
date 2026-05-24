@@ -23,7 +23,7 @@ I am a Software Engineering student at Universidad de La Salle and 42 Madrid. I 
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://shields.io)](TU_LINK_DE_LINKEDIN)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/andres-trujillo-4121392a0)
 [![Email](https://shields.io)](mailto:atrujillotorres19@gmail.com)
 
 ---
@@ -31,7 +31,6 @@ I am a Software Engineering student at Universidad de La Salle and 42 Madrid. I 
   <img src="https://vercel.app" alt="Andres Tech Stats" />
 </p>
 
-## Hi there 👋
 
 <!--
 **AndrewTowers/AndrewTowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
