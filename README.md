@@ -23,9 +23,22 @@ I am a Software Engineering student at Universidad de La Salle and 42 Madrid. I 
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png)](https://www.linkedin.com/in/andres-trujillo-4121392a0)
-[![Email](https://upload.wikimedia.org/wikipedia/commons/8/8f/Gmail_icon_%282026%29.svg)](mailto:atrujillotorres19@gmail.com)
 
+<p align="left">
+  <a href="TU_LINK_DE_LINKEDIN" target="_blank">
+    <img src="https://shields.io" height="32" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:atrujillotorres19@gmail.com">
+    <img src="https://shields.io" height="32" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://vercel.app" alt="Andres Tech Stats" />
+</p>
 
 
 <!--
