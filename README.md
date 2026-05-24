@@ -24,21 +24,17 @@ I am a Software Engineering student at Universidad de La Salle and 42 Madrid. I 
 
 ### 📫 Connect with me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/andres-trujillo-4121392a0" target="_blank">
-    <img src="https://shields.io" height="32" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:atrujillotorres19@gmail.com">
-    <img src="https://shields.io" height="32" alt="Gmail"/>
-  </a>
-</p>
+- 💼 **LinkedIn:** [Andrés Trujillo](https://www.linkedin.com/in/andres-trujillo-4121392a0)  
+- ✉️ **Email:** [atrujillotorres19@gmail.com](mailto:atrujillotorres19@gmail.com)  
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://herokuapp.com" alt="Andres Streaks" />
-</p>
+### 📊 Tech Stack Overview
+
+- **Low-Level Development:** `C` | `C++`
+- **Backend & APIs:** `Java` | `Spring Boot` | `Node.js` | `REST APIs`
+- **Frontend & Design:** `TypeScript` | `Angular` | `HTML5 & CSS3` | `UI/UX Design`
+- **Databases & Core:** `MySQL` | `MongoDB` | `Git` | `Linux Shell`
 
 
 
