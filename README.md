@@ -1,3 +1,36 @@
+# Hi, I'm Andrés Trujillo! 🚀
+
+### Software Engineering Student & Tech Enthusiast
+I am a Software Engineering student at Universidad de La Salle and 42 Madrid. I love breaking down complex systems, managing low-level memory operations, and building robust full-stack applications.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** C, C++, Java, TypeScript, JavaScript, SQL
+- **Backend & DBs:** Spring Boot, Node.js, MySQL, MongoDB, REST APIs
+- **Frontend & UI/UX:** Angular, HTML5, CSS3, Graphic Design (Photoshop/Illustrator)
+- **Core Engineering:** Linux/Unix Shell, Git, Concurrency (Threads, Mutex), Process Management (fork/pipes)
+
+---
+
+### 📂 Featured Projects (42 Madrid & University)
+
+- **[Minishell](https://github.com):** A fully functional Unix shell coded from scratch in C. Handles process creation, pipes, and signals.
+- **[Philosophers](https://github.com):** Solving the Dining Philosophers problem using POSIX threads and mutexes to master concurrency.
+- **[Full-Stack Web Apps]:** RESTful APIs developed with Spring Boot and dynamic frontends built with Angular.
+
+---
+
+### 📫 Connect with me
+[![LinkedIn](https://shields.io)](TU_LINK_DE_LINKEDIN)
+[![Email](https://shields.io)](mailto:atrujillotorres19@gmail.com)
+
+---
+<p align="center">
+  <img src="https://vercel.app" alt="Andres Tech Stats" />
+</p>
+
 ## Hi there 👋
 
 <!--
