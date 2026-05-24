@@ -16,20 +16,16 @@ I am a Software Engineering student at Universidad de La Salle and 42 Madrid. I 
 
 ### 📂 Featured Projects (42 Madrid & University)
 
-- **[Minishell](https://github.com):** A fully functional Unix shell coded from scratch in C. Handles process creation, pipes, and signals.
-- **[Philosophers](https://github.com):** Solving the Dining Philosophers problem using POSIX threads and mutexes to master concurrency.
+- **[Minishell](https://github.com/BlasAST/Minishell):** A fully functional Unix shell coded from scratch in C. Handles process creation, pipes, and signals.
+- **[Philosophers](https://github.com/AndrewTowers/Mill-3):** Solving the Dining Philosophers problem using POSIX threads and mutexes to master concurrency.
 - **[Full-Stack Web Apps]:** RESTful APIs developed with Spring Boot and dynamic frontends built with Angular.
 
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/andres-trujillo-4121392a0)
-[![Email](https://shields.io)](mailto:atrujillotorres19@gmail.com)
+[![LinkedIn](https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png)](https://www.linkedin.com/in/andres-trujillo-4121392a0)
+[![Email](https://upload.wikimedia.org/wikipedia/commons/8/8f/Gmail_icon_%282026%29.svg)](mailto:atrujillotorres19@gmail.com)
 
----
-<p align="center">
-  <img src="https://vercel.app" alt="Andres Tech Stats" />
-</p>
 
 
 <!--
